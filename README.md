@@ -12,4 +12,4 @@ El propósito de está página web es mostrar los conocimientos aprendidos para 
 
 
 ### Captura del proyecto
-![Captura del proyecto](/imagenes/Captura de pantalla_pinterest.png)
+![Captura del proyecto](/imagenes/Captura%20de%20pantalla_pinterest.png)
